@@ -1,0 +1,17 @@
+[debug] [2019-01-27T00:31:55.594Z] ----------------------------------------------------------------------
+[debug] [2019-01-27T00:31:55.604Z] Command:       C:\Program Files\nodejs\node.exe C:\firebase-tools\node_modules\firebase-tools\bin\firebase deploy
+[debug] [2019-01-27T00:31:55.604Z] CLI Version:   3.18.2
+[debug] [2019-01-27T00:31:55.609Z] Platform:      win32
+[debug] [2019-01-27T00:31:55.609Z] Node Version:  v8.11.1
+[debug] [2019-01-27T00:31:55.609Z] Time:          Sun Jan 27 2019 00:31:55 GMT+0000 (GMT Standard Time)
+[debug] [2019-01-27T00:31:55.609Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-01-27T00:31:55.659Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-01-27T00:31:55.659Z] > authorizing via signed-in user
+[debug] [2019-01-27T00:31:55.669Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/pyrebase-anjas-54a73  
+  
+ Sun Jan 27 2019 00:31:55 GMT+0000 (GMT Standard Time)
+[debug] [2019-01-27T00:32:01.079Z] <<< HTTP RESPONSE 200
+[debug] [2019-01-27T00:32:01.084Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/pyrebase-anjas-54a73/tokens  
+  
+ Sun Jan 27 2019 00:32:01 GMT+0000 (GMT Standard Time)

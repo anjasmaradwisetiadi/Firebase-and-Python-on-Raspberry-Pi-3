@@ -1,11 +1,11 @@
 // Initialize Firebase - REAL
 var config = {
-  apiKey: "AIzaSyDvpWClBOn3LGIbNhfq3zFylpCrWUOcyLk",
-  authDomain: "pyrebase-anjas-54a73.firebaseapp.com",
-  databaseURL: "https://pyrebase-anjas-54a73.firebaseio.com",
-  projectId: "pyrebase-anjas-54a73",
-  storageBucket: "pyrebase-anjas-54a73.appspot.com",
-  messagingSenderId: "1045063707311"
+  apiKey: " ",
+  authDomain: " ",
+  databaseURL: " ",
+  projectId: " ",
+  storageBucket: " ",
+  messagingSenderId: " "
   };
 firebase.initializeApp(config);
 
